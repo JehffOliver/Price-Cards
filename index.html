@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style>
+    body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(11, 19, 19);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    }
+    .conteiner{
+        flex: auto;
+        padding: 10px;
+        margin: 10px;
+        position: relative;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    h1{
+        text-align: center;
+        text-transform: uppercase;
+    }
+    h2{
+        text-transform: uppercase;
+        border-bottom: solid yellow 1px;
+        text-align: start;
+        font-size: 20px;
+        margin: 20px;
+    }
+
+    .plan1,
+    .plan2,
+    .plan3 {
+    background-color: rgb(31, 54, 54);   
+    width: 300px; /* Largura fixa */
+    height: 350px; /* Mesma altura para criar uma caixa quadrada */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 3%;
+}
+
+.ass{
+    background-color: yellow;
+    color: black;
+    margin: 50px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.ass:hover{
+    color: chartreuse;
+}
+
+</style>
+<body>
+    <h1>escolha seu plano</h1>
+<div class="conteiner">
+    <div class="plan1">
+        <h2>essencial</h2>
+        <ul>
+            <li>
+                <p>1 Website</p>
+            </li>
+            <li>
+                <p>1GB de Armazenamento</p> 
+            </li>
+            <li>
+                <p>10GB de Transferencia</p>
+            </li>
+        </ul>
+        <div class="ass">Assine já</div>
+    </div>
+    <div class="plan2">
+        <h2>premium</h2>
+        <ul>
+            <li>
+                <p>1 Website</p>
+            </li>
+            <li>
+                <p>1GB de Armazenamento</p> 
+            </li>
+            <li>
+                <p>10GB de Transferencia</p>
+            </li>
+        </ul>
+        <div class="ass">Assine já</div>
+    </div>
+    <div class="plan3">
+        <h2>gold</h2>
+        <ul>
+            <li>
+                <p>1 Website</p>
+            </li>
+            <li>
+                <p>1GB de Armazenamento</p> 
+            </li>
+            <li>
+                <p>10GB de Transferencia</p>
+            </li>
+        </ul>
+        <div class="ass">Assine já</div>
+    </div>
+</div>
+</body>
+</html>
