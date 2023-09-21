@@ -34,3 +34,39 @@ C:\Users\jdoaraujo\Documents\Projeto Plano\EscolhaPlano\EscolhaPlano\obj\Debug\n
 C:\Users\jdoaraujo\Documents\Projeto Plano\EscolhaPlano\EscolhaPlano\obj\Debug\netcoreapp2.1\EscolhaPlano.pdb
 C:\Users\jdoaraujo\Documents\Projeto Plano\EscolhaPlano\EscolhaPlano\obj\Debug\netcoreapp2.1\EscolhaPlano.genruntimeconfig.cache
 C:\Users\jdoaraujo\Documents\Projeto Plano\EscolhaPlano\EscolhaPlano\obj\Debug\netcoreapp2.1\EscolhaPlano.csproj.CopyComplete
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.dll
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.pdb
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\bin\Debug\netcoreapp2.1\EscolhaPlano.deps.json
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\bin\Debug\netcoreapp2.1\EscolhaPlano.runtimeconfig.json
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\bin\Debug\netcoreapp2.1\EscolhaPlano.runtimeconfig.dev.json
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\bin\Debug\netcoreapp2.1\EscolhaPlano.dll
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\bin\Debug\netcoreapp2.1\EscolhaPlano.pdb
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\bin\Debug\netcoreapp2.1\EscolhaPlano.Views.dll
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\bin\Debug\netcoreapp2.1\EscolhaPlano.Views.pdb
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.csproj.AssemblyReference.cache
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.AssemblyInfoInputs.cache
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.AssemblyInfo.cs
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.csproj.CoreCompileInputs.cache
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.RazorAssemblyInfo.cache
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.RazorAssemblyInfo.cs
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.TagHelpers.input.cache
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.TagHelpers.output.cache
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.RazorCoreGenerate.cache
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.RazorTargetAssemblyInfo.cache
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.RazorTargetAssemblyInfo.cs
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.Views.pdb
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.genruntimeconfig.cache
+C:\Users\Jehff\OneDrive\Estudos\FrontEnd\07 Projeto 3 - PriceCards\Price-Cards\obj\Debug\netcoreapp2.1\EscolhaPlano.csproj.CopyComplete

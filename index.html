@@ -20,14 +20,12 @@
         margin: 60px;
         position: relative;
         display: flex;
-        justify-content: space-around;
-        background-color: aquamarine;
+        justify-content: space-evenly;
     }
 
     h1{
         text-align: center;
         text-transform: uppercase;
-        background-color: blueviolet;
     }
     h2{
         text-transform: uppercase;
@@ -83,6 +81,11 @@
         flex-direction: column;
         align-items: center;
     }
+
+    .mes {
+        font-size: 15px;
+        white-space: nowrap;
+    }
 </style>
 <body>
     <h1>escolha seu plano</h1>
@@ -90,7 +93,7 @@
     <div class="plan1">
         <ul>
             <h2>essencial </h2>
-            <h2 class="price">R$ 3.95</h2>
+            <h2 class="price">R$ 3.95<span class="mes"> / mês</span></h2>
             <li>
                 <p>1 Website</p>
             </li>
@@ -106,7 +109,7 @@
     <div class="plan2">
         <ul>
             <h2>premium</h2>
-            <h2 class="price">R$ 7.95</h2>
+            <h2 class="price">R$ 7.95<span class="mes"> / mês</span></h2>
             <li>
                 <p>5 Websites</p>
             </li>
@@ -125,7 +128,7 @@
     <div class="plan3">        
         <ul>
             <h2>gold</h2>
-            <h2 class="price">R$ 13.95</h2>
+            <h2 class="price">R$ 13.95<span class="mes"> / mês</span></h2>
             <li>
                 <p>10 Websites</p>
             </li>

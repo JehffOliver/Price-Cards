@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Views",
+    "\\Views\\Home"
   ],
-  "SelectedNode": "\\appsettings.json",
+  "SelectedNode": "\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jdoaraujo\\Documents\\Projeto Plano\\EscolhaPlano\\EscolhaPlano\\EscolhaPlano.csproj": {}
+    "C:\\Users\\Jehff\\OneDrive\\Estudos\\FrontEnd\\07 Projeto 3 - PriceCards\\Price-Cards\\EscolhaPlano.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jdoaraujo\\Documents\\Projeto Plano\\EscolhaPlano\\EscolhaPlano\\EscolhaPlano.csproj": {
+    "C:\\Users\\Jehff\\OneDrive\\Estudos\\FrontEnd\\07 Projeto 3 - PriceCards\\Price-Cards\\EscolhaPlano.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jdoaraujo\\Documents\\Projeto Plano\\EscolhaPlano\\EscolhaPlano\\EscolhaPlano.csproj",
+        "projectUniqueName": "C:\\Users\\Jehff\\OneDrive\\Estudos\\FrontEnd\\07 Projeto 3 - PriceCards\\Price-Cards\\EscolhaPlano.csproj",
         "projectName": "EscolhaPlano",
-        "projectPath": "C:\\Users\\jdoaraujo\\Documents\\Projeto Plano\\EscolhaPlano\\EscolhaPlano\\EscolhaPlano.csproj",
-        "packagesPath": "C:\\Users\\jdoaraujo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jdoaraujo\\Documents\\Projeto Plano\\EscolhaPlano\\EscolhaPlano\\obj\\",
+        "projectPath": "C:\\Users\\Jehff\\OneDrive\\Estudos\\FrontEnd\\07 Projeto 3 - PriceCards\\Price-Cards\\EscolhaPlano.csproj",
+        "packagesPath": "C:\\Users\\Jehff\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jehff\\OneDrive\\Estudos\\FrontEnd\\07 Projeto 3 - PriceCards\\Price-Cards\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jdoaraujo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jehff\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
